@@ -10,10 +10,10 @@
     "test": "eslint **/**/test_*"
   },
   "dependencies": {
-    "babel-eslint": "^8.2.1",
-    "eslint": "^4.17.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^10.15.0",
     "husky": "^0.14.3",
-    "lint-staged": "^4.0.3",
+    "lint-staged": "^17.6.1",
     "prettier": "^1.9.2",
     "prettier-package-json": "^1.4.0"
   },
